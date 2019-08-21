@@ -1,0 +1,22 @@
+{
+    "token": "bot token",
+    "prefix": "!",
+    "servers": {
+        "azure": "http://azure.psim.us/digimon",
+        "wavelength": "http://wavelength.psim.us/digimon"
+    },
+    "devs": ["dev user ids"],
+    "statusRoles": {
+        "looking": "role id",
+        "lurking": "role id",
+        "dnd": "role id"
+    },
+    "reactionIDs": {
+        "looking": "reaction/emoji id",
+        "lurking": "reaction/emoji id",
+        "dnd": "reaction/emoji id"
+    },
+    "serverID": "discord server id",
+    "matchmakingID": "matchmaking channel id",
+    "msgID": "premessage id"
+}  
